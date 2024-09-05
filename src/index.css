@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  .kartini,
+  .judul {
+    font-family: "Dancing Script", sans-serif;
+  }
+
+  .btn-kartini {
+    --animate-delay: 0.7s;
+  }
+
+  #red-toggle:checked ~ label div.toggle-circle {
+    transform: translateX(13px);
+  }
+
+  @media screen and (max-width: 640px) {
+    .circle {
+      left: 12px;
+    }
+
+    .circle-right {
+      left: 12px;
+    }
+
+    .left-arrow,
+    .right-arrow {
+      border-right: 15px solid #f8fafc;
+      border-left: 0;
+      left: -15px;
+    }
+  }
+}
