@@ -1,8 +1,15 @@
-# React + Vite
+# Kartini: Suara Perempuan Jawa yang Mendunia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Review
+https://github.com/user-attachments/assets/389a5f86-5ca7-43b9-a939-8bddce8920d3
 
-Currently, two official plugins are available:
+# Deskripsi
+Warisan R.A. Kartini terus hidup dan relevan hingga kini. Situs ini mengupas tuntas pemikiran dan tindakan Kartini dalam konteks Indonesia modern. Temukan berbagai analisis, opini, dan kisah nyata yang menunjukkan betapa pentingnya nilai-nilai yang diperjuangkan Kartini dalam kehidupan sehari-hari. Mari bersama kita lestarikan semangat Kartini untuk membangun masa depan yang lebih baik.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Fitur
+- Responsive
+- Scrolling Smooth
+- Light Mode & Red Mode
+- Timeline Animation
+
+Mari kita terus menghidupkan semangat Kartini dalam setiap langkah kita. Dengan pendidikan dan kesetaraan gender, kita dapat membangun masa depan Indonesia yang lebih cerah. Terimakasih.
